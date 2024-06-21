@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-image: linear-gradient(#eee12f,#fafc88);
+    background-image: linear-gradient(#f7f08f,#f5f789);
     background-color: ;
     color: rgb(0, 0, 0);
     display: flex;
@@ -44,7 +44,7 @@
 }
 
 .estudante-imagem{
-    width: 120px;
+    width: 300px;
 }
 
 .estudante-icone{

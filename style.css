@@ -15,6 +15,7 @@
 
 .cabecalho-imagem{
     width: 13%;
+    align-items: center;
 }
 
 .cabecalho-lista-item{
